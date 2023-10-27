@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 My Name is Abdul Salaam<br>I’m currently working on NodeJS Developer<br>I have completed 6 months Internship at Digital Crew Pvt,Ltd Indore [Madhya Prades<br><br>A brief list of tech goodies I've been using:<br> 🚀 Visual Studio Code <br> 🚀 ExpressJs <br> 🚀 JavaScript <br> 🚀 ReactJs <br> 🚀 MongoDB <br> 🚀 GitHub <br> 🚀 Git <br> 🚀 MySQL<br> 🚀 Postman<br> 🚀 HTML, SCSS
 
 
